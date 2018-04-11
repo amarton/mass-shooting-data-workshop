@@ -27,7 +27,7 @@ Beginner end-to-end data analysis and visualization workshop using Stanford's Ma
 <a href="https://support.google.com/fusiontables/answer/2571232">Google Fusion Tables</a>
 
 
-
+<br><br><br>
 <strong>Before workshop, students should:</strong>
 
 Download this GitHub
@@ -36,7 +36,7 @@ Have a Google account with access to Google Sheets and Google Fusion tables
 
 Sign up for account at infogram.com
 
-
+<br><br><br>
 <strong>Workshop outline:</strong>
 
 
