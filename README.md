@@ -3,10 +3,10 @@ End-to-end data analysis and visualization work using Stanford's Mass Shootings 
 
 
 TO ADD:
-Link to stanford data
-Link to raw data
-Link to worked data
-Link to infogram (+ chartblock )
-Link to Googe Fusion Tables
-sample html page
+Link to stanford data<br>
+Link to raw data<br>
+Link to worked data<br>
+Link to infogram (+ chartblock )<br>
+Link to Googe Fusion Tables<br>
+sample html page<br>
 list of questions
